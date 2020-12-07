@@ -1,4 +1,4 @@
 # Tick-Tack-Toe-Android-Studio
 
-
-![](splash_image.jpg)
+hello
+![](x.png)
