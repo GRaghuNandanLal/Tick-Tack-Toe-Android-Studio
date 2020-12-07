@@ -9,7 +9,7 @@ Getting started
 In android studio goto file
 Select new > Import from version control
 Choose git / github (git option recommanded )
-Paste url to repository i.e https://github.com/karansthr/Tic-Tac-Toe.git
+Paste url to repository i.e https://github.com/GRaghuNandanLal/Tick-Tack-Toe-Android-Studio
 Click on clone.
 ![](images/splash_image.jpg)
 ![](images/x.png)
