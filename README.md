@@ -11,9 +11,7 @@ Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns 
 3) Choose git / github (git option recommanded )
 4) Paste url to repository i.e https://github.com/GRaghuNandanLal/Tick-Tack-Toe-Android-Studio
 5) Click on clone.
-![](images/Screenshot (683).png)
-![](images/Screenshot (684).png)
-![](images/Screenshot (685).png)
+![](images/hello.png)
 ![](images/splash_image.jpg)
 ![](images/x.png)
 ![](images/oo.png)
